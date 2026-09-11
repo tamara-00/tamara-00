@@ -97,8 +97,6 @@ mood:      probably fueled by coffee and pastel gradients ☕🌸
 
 <div align="center">
 
-  ![Snake animation](https://raw.githubusercontent.com/tamara-00/tamara-00/output/github-contribution-grid-snake.svg)
-
   <br/>
 
   <img src="https://komarev.com/ghpvc/?username=tamara-00&color=ff69b4&style=flat-square&label=Profile+Views" />
