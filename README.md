@@ -74,10 +74,6 @@ focus:
 
 ### 🌷 > github_stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamara-00&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamara-00&layout=compact&theme=radical&hide_border=true&title_color=FF69B4&text_color=ffffff&bg_color=0d1117" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tamara-00&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
