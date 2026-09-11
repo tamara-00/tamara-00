@@ -80,6 +80,8 @@ focus:
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=tamara-00&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+</p>
 
 <br/>
 
@@ -98,6 +100,8 @@ mood:      probably fueled by coffee and pastel gradients ☕🌸
   ![Snake animation](https://raw.githubusercontent.com/tamara-00/tamara-00/output/github-contribution-grid-snake.svg)
 
   <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=tamara-00&color=ff69b4&style=flat-square&label=Profile+Views" />
 
   <br/><br/>
 
