@@ -99,6 +99,4 @@ mood:      probably fueled by coffee and pastel gradients ☕🌸
 
   <br/><br/>
 
-  <p><i>"Quality is never an accident; it is always the result of intelligent effort." 🎀</i></p>
-
 </div>
